@@ -2,7 +2,7 @@ relay_pin = 1
 switch_pin = 3
 ds18b20_pin = 4
 
-mqtt_room = "sdb"
+mqtt_room = "salon"
 mqtt_type = "thermostat"
 mqtt_server = "192.168.1.4"
 
